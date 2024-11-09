@@ -119,6 +119,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
 - [OSINT Russie IEC-IES](https://start.me/p/0PeKwy/osint-russie-iec-ies)
 
+## Serbia
+- [OSINT: Business register] (https://pretraga2.apr.gov.rs/unifiedentitysearch)
+
 ## South Africa
 - [OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
 
